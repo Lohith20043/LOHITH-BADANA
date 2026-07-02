@@ -1,4 +1,18 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&pause=1000&color=A344F7&background=99C2FF00&width=439&height=58&lines=LOHITH+BADANA" alt="Typing SVG" /></a>
+https://capsule-render.vercel.app/api?type=wave&height=360&color=gradient&text=LOHITH%20BADANA&fontAlign=50&textBg=false&section=header&reversal=true&desc=%20Building%20AI%20that%20solves%20real-world%20problems%20with%20intelligence%20and%20purpose."&strokeWidth=-28&animation=fadeIn&descSize=20&descAlign=50
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&pause=1000&color=A344F7&background=99C2FF00&width=439&height=58&lines=AI/ML Engineer" alt="Typing SVG" /></a>
   <pre>
   ██╗      ██████╗ ██╗  ██╗██╗████████╗██╗  ██╗
   ██║     ██╔═══██╗██║  ██║██║╚══██╔══╝██║  ██║
@@ -11,7 +25,7 @@
 
 <h3 align="center">Badana Lohith</h3>
 <p align="center">
-  <b>Machine Learning Intern / Trainee · CSE @ Lovely Professional University · Building end-to-end ML systems</b>
+  <b>AI/ML Engineer · CSE @ Lovely Professional University · Building end-to-end ML systems</b>
 </p>
 
 <p align="center">
@@ -128,3 +142,11 @@ Personalized recommendation engine using collaborative filtering and user-behavi
 ---
 
 <p align="center"><i>"Learn fast. Ship things that actually work."</i> 🌱</p>
+
+🎯 Engineering Focus
+
+🧠 Generative AI         ▰▰▰▰▰▰▰▰▰▰  Advanced
+🤖 Machine Learning      ▰▰▰▰▰▰▰▰▱▱  Growing
+⚙️ MLOps & AI Systems    ▰▰▰▰▰▰▱▱▱▱  Building
+🐍 Python & C++          ▰▰▰▰▰▰▰▰▰▱  Strong
+🧩 Problem Solving       ▰▰▰▰▰▰▰▰▰▰  Always On
