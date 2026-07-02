@@ -1,17 +1,3 @@
-https://capsule-render.vercel.app/api?type=wave&height=360&color=gradient&text=LOHITH%20BADANA&fontAlign=50&textBg=false&section=header&reversal=true&desc=%20Building%20AI%20that%20solves%20real-world%20problems%20with%20intelligence%20and%20purpose."&strokeWidth=-28&animation=fadeIn&descSize=20&descAlign=50
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&pause=1000&color=A344F7&background=99C2FF00&width=439&height=58&lines=AI/ML Engineer" alt="Typing SVG" /></a>
   <pre>
   ██╗      ██████╗ ██╗  ██╗██╗████████╗██╗  ██╗
